@@ -36,6 +36,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![Featured](https://github.com/Kumardk8780/music/assets/54668564/4f9ec7af-7148-46d7-9989-ab7e362f69aa)
   </p>
 
+<p>
+  Sticky Scroll
+
+  
+  ![Screenshot from 2024-03-04 18-36-21](https://github.com/Kumardk8780/music/assets/54668564/74812142-83ff-4db3-8b6d-55bf2b1cb1d4)
+
+</p>
+
 
 ## Learn More
 
