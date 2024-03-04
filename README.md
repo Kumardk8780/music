@@ -20,6 +20,23 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Screenshots
+  <p>Header
+  
+![Header](https://github.com/Kumardk8780/music/assets/54668564/f7bd0540-242a-4574-a511-23d7124a455b)
+  </p>
+
+  <p>Hero
+    
+![Hero](https://github.com/Kumardk8780/music/assets/54668564/b9964151-74fc-45db-8c13-ddc84ac52490)
+  </p>
+
+  <p>Featured Section
+    
+![Featured](https://github.com/Kumardk8780/music/assets/54668564/4f9ec7af-7148-46d7-9989-ab7e362f69aa)
+  </p>
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
