@@ -7,7 +7,6 @@ import image2 from '../../public/assets/images/Designer (2).jpeg'
 import image3 from '../../public/assets/images/Designer (3).jpeg'
 import image4 from '../../public/assets/images/Designer (4).jpeg'
 import image5 from '../../public/assets/images/Designer (5).jpeg'
-import image6 from '../../public/assets/images/Designer (1).jpeg'
 
 const musicSchoolContent = [
     {
