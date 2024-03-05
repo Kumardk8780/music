@@ -1,24 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## About Project
 
-## Getting Started
+A sample project for a music ed-tech company making an online presence providing courses and many other options to the students all over the world.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
+<ul>
+  <li>NextJs</li>
+  <li>Aceertenityt Ui</li>
+  <li>Typescript</li>
+  <li>Framer Motion</li>
+  <li>Tailwind Css</li>
+</ul>
 
 ## Screenshots
   <p>Header
@@ -43,6 +34,43 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
   ![Screenshot from 2024-03-04 18-36-21](https://github.com/Kumardk8780/music/assets/54668564/74812142-83ff-4db3-8b6d-55bf2b1cb1d4)
 
 </p>
+
+<p>
+  Infinite Cards
+
+![Screenshot from 2024-03-05 11-02-58](https://github.com/Kumardk8780/music/assets/54668564/f7654e5a-0782-48c9-a300-2add2cdfe3e0)
+
+  
+</p>
+
+<p>
+  Featured Webinars
+
+  ![Screenshot from 2024-03-05 11-42-31](https://github.com/Kumardk8780/music/assets/54668564/3060aab6-3915-4610-8f0b-6a75fdf1429c)
+
+</p>
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+
 
 
 ## Learn More
